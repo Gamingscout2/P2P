@@ -1,0 +1,5 @@
+PySide6
+cryptography
+warpgate
+aionetiface
+pystun3
