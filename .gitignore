@@ -6,11 +6,22 @@ __pycache__/
 /dist/
 /p2p5.py
 .github/*
+.venv/*
 .venv/
 .idea
 venv/*
 dist
 build
+
+# Ignore Python virtual environments
+venv/
+.venv/
+env/
+
+# Ignore other specific folders (example)
+node_modules/
+build/
+
 # C extensions
 *.so
 
