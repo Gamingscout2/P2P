@@ -2,7 +2,15 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+/build/
+/dist/
+/p2p5.py
+.github/*
+.venv/
+.idea
+venv/*
+dist
+build
 # C extensions
 *.so
 
